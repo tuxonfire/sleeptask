@@ -7,7 +7,7 @@
 
   tasks:
     - name: sleep for a specified interval
-      command: sleep 10
+      command: sleep 50
    
     - name: 50 second pause
       pause:
